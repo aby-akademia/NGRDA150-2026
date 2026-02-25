@@ -4,7 +4,8 @@ Hierdie gids bevat die datastelle wat gebruik word vir voorbeelde en praktiese o
 
 ## Inhoud
 
-...
+* [Leereenheid 2: Boland meubels verkope (CSV)](le2_boland_meubels_verkope.csv)
+
 
 ## Bydraes
 
