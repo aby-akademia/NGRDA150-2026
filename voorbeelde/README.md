@@ -18,6 +18,8 @@ Hierdie gids bevat voorbeeldkode wat gebruik word om die konsepte wat in die kur
 
 * [Eksplorerende data-analise](eksplorerende_data_analise.ipynb)
 * [Beskrywende statistiek](beskrywende_statistiek.ipynb)
+* [Datavisualisering](datakwaliteit_boland_meubels.ipynb)
+* [Datakwaliteit](datakwaliteit_boland_meubels.ipynb)
 
 
 ## Bydraes
