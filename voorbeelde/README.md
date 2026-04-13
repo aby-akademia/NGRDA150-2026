@@ -21,6 +21,13 @@ Hierdie gids bevat voorbeeldkode wat gebruik word om die konsepte wat in die kur
 * [Datavisualisering](datavisualisasie_boland_meubels.ipynb)
 * [Datakwaliteit](datakwaliteit_boland_meubels.ipynb)
 
+### Leereenheid 4
+
+* [Data-skoonmaak](le4_1_boland_meubels.ipynb)
+* [Data-transformasie](le4_2_boland_meubels.ipynb)
+* [Kenmerkingenieurswese](le4_3_boland_meubels.ipynb)
+* [Data-integrasiet](le4_4_boland_meubels.ipynb)
+
 
 ## Bydraes
 
